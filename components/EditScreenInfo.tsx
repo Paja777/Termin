@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     fontSize: 17,
     lineHeight: 24,
     textAlign: 'center',
-  },
+  }, 
   helpContainer: {
     marginTop: 15,
     marginHorizontal: 20,
